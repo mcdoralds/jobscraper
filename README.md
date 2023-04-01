@@ -1,4 +1,4 @@
-# jobscraper
+# Job Listing Collector
 Web scraper for job searching since I got laid off and I'm unemployed af!!! This scraper will do the following:
 1. Build a web framework using Flask
 2. Gather data from the top job search sites using Python
@@ -7,9 +7,8 @@ Web scraper for job searching since I got laid off and I'm unemployed af!!! This
 
 Tools:
 - Python
-  - Splinter: Automates Web Browser
   - BeautifulSoup: Extracts data for analysis
-  - Requests
+  - Splinter: Allows script user to view page being parsed
 
 Job Sites searched:
 - Indeed
