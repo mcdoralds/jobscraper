@@ -12,3 +12,6 @@ Tools:
 
 Job Sites searched:
 - Indeed
+
+Example Output:
+![image](https://user-images.githubusercontent.com/31219195/229323037-abe96e83-8d50-4385-a7f1-d24b9e4db36b.png)
