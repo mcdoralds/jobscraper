@@ -1,5 +1,5 @@
 # Job Listing Collector
-Web scraper for job searching since I got laid off and I'm unemployed af!!! This scraper will do the following:
+This scraper will do the following:
 1. Build a web framework using Flask
 2. Gather data from the top job search sites using Python
 3. Save data in accessible database
@@ -15,3 +15,11 @@ Job Sites searched:
 
 Example Output:
 ![image](https://user-images.githubusercontent.com/31219195/229323037-abe96e83-8d50-4385-a7f1-d24b9e4db36b.png)
+
+What I eventually want this program to do:
+- Have a user-facing interface that 
+  a) asks the desired job title
+  b) asks the desired location
+  c) scrapes information
+  d) visualizes salary statistics (range, average)
+  e) provides top keywords and skills listed in the qualifications
